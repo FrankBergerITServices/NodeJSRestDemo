@@ -1,7 +1,7 @@
 {
-  "name": "FirstNodeJSProject",
+  "name": "NodeJSRestDemo",
   "version": "0.1.0",
-  "description": "FirstNodeJSProject",
+  "description": "NodeJSRestDemo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"

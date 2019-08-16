@@ -1,7 +1,11 @@
 
 
-# FirstNodeJSProject
+# NodeJSRestDemo
 
+Small node.js demo application which implements a REST-API for the employee table of the Oracle HR sample schema.
+
+The code is taken from the following tutorial:
+[Creating a REST API with Node.js and Oracle Database](https://jsao.io/2018/03/creating-a-rest-api-with-node-js-and-oracle-database/)
 
 
 ## Usage
